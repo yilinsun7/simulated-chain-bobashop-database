@@ -19,5 +19,5 @@ This ongoing project showcases our workflow of designing a relational schema fro
 2. `boba_rs.png`: A visual representation of the relational schema, their relationship, and their columns;
 3. `create_insert_display.ipynb`: This notebook connects to the database with Python and implemented the create tables, insert data values, and display tables as dataframe commands;
 4. `groupby_case_nested_views_joins.ipynb`: This notebook connects to the database with Python and implemented grouping, creating views, left and right joins, and certain nested queries;
-5. `boba_shop.ini`: 
-6.  and `database_utilities.py`
+5. `boba_shop.ini`: The INI file that stores configuration settings when connecting to the database with Python; 
+6.  `database_utilities.py`: a utility module that handles connecting to the database as well as transforming the query results into dataframes in Python. 
